@@ -3,6 +3,7 @@ Functionality Report
 
 # DashBoard
 The dashboard is an all in one suite consisting of widgets. It will have the following features:
+
 1. Link to profile, with details of Student name, Id and Photograph.  
 2. Seach bar for the entire website.  
 3. A settings pane for account related information, password changes.  
